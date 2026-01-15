@@ -38,9 +38,7 @@
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Discord
 <p align="left">
-  <a href="https://github.com/t" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://x.com/offed" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
   <a href="https://discord.com/users/tc4d" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </p>
