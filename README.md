@@ -1,7 +1,7 @@
 # Hi there! I'm Tc4dy (Tuğra) 👋
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="300" alt="Cybersecurity">
+  <img src="https://i.pinimg.com/originals/68/da/c3/68dac3b85577d2f06b7a2f04da1ed372.gif" width="300" alt="Cybersecurity">
 </p>
 
 ## 🛡️ Cybersecurity & System Development
