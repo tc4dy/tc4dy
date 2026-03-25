@@ -15,7 +15,7 @@
 * **Exploitation & Research:** Linux Kernel Exploitation, Buffer Overflow (BoF), ROP Chains, Privilege Escalation (PrivEsc).
 * **Operating Systems:** Advanced Linux Hardening, Kernel Debugging, Windows Internals & Debloating.
 * **Malware & Privacy:** Anti-Spyware Development, Telemetry Removal, Reverse Engineering.
-* **Programming:** C, C++, Java, Python (Exploit Scripting), Bash/PowerShell Automation.
+* **Programming:** C, C++, Java, Python (With Scripting), Bash/PowerShell Automation.
 
 ---
 
