@@ -3,7 +3,7 @@
 
 <h1></h1>
 
-# Hi there! I'm Tc4dy (Tuğra) 👋
+# Hi there! I'm Tc4dy 👋
 
 <p align="left">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyMWx5bHFiNGVkMWtkdXdlc3F0b2doM2N5MnBiOXAyZmxhOTQ2bjBoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yhOxNDg364F00MaqfX/giphy.gif" width="300" alt="Cybersecurity">
