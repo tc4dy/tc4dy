@@ -1,5 +1,5 @@
 <h2>Active Project's | https://leavemyinternet.github.io 🔥 
-             https://beautifulsource.github.io 👾 https://beautifulsource.github.io 🔥</h2>
+             https://beautifulsource.github.io 👾 https://ctfsupervisor.github.io 🔥</h2>
 
 <h1></h1>
 
