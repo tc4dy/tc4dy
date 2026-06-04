@@ -42,9 +42,9 @@
   
 ---  
 
-https://leavemyinternet.github.io
+https://leavemyinternet.github.io 🚀
   
-https://beautifulsource.github.io 
+https://beautifulsource.github.io 💎
 
-https://ctfsupervisor.github.io  </h2>
+https://ctfsupervisor.github.io 💥 </h2>
 
