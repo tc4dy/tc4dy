@@ -11,11 +11,11 @@
 
 ---
 
-### 🧠 Expertise
-* **Exploitation & Research:** Linux Kernel Exploitation, Buffer Overflow (BoF), ROP Chains, Privilege Escalation (PrivEsc).
-* **Operating Systems:** Advanced Linux Hardening, Kernel Debugging, Windows Internals & Debloating.
-* **Malware & Privacy:** Anti-Spyware Development, Telemetry Removal, Reverse Engineering.
-* **Programming:** C, C++, Java, **Python** (With Scripting), Bash/PowerShell Automation.
+### 🧠 Features & Interests
+* **Research & Exploitation:** Writing PoC exploits for real-world daily vulnerabilities, UEFI & TPM, Buffer Overflow (BoF), Privilege Escalation (PrivEsc), web pentest scripting, and reporting by testing the vulnerabilities.
+* **Operating Systems:** Linux customization & configuration, operating system debloating (Windows & Linux), BSD family & Linux hardening.
+* **Privacy & Security:** Kernel & hardware-level OpSec (Intel ME, TPM, coreboot & libreboot customization), telemetry removal, custom ROM, i2p, Lokinet, GNU Net, Tor configuration.
+* **Programming:** **Python**, Go Lang, C Family, Java, (With Scripting), Assembly for Kernel, Bash/PowerShell Automation.
 
 ---
 
@@ -38,6 +38,8 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" />
 </p>
 
-<h2>Active Project's | https://leavemyinternet.github.io 🔥 
-             https://beautifulsource.github.io 👾 https://ctfsupervisor.github.io 🔥</h2>
+<h2>Project's 
+https://leavemyinternet.github.io
+https://beautifulsource.github.io 
+https://ctfsupervisor.github.io  </h2>
 ---
