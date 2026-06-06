@@ -2,7 +2,7 @@
 
 # Hi there! I'm Tc4dy 👋
 
-<img src="https://raw.githubusercontent.com/tc4dy/tc4dy/main/tc4dy_banner.gif" width="400">
+<img src="https://raw.githubusercontent.com/tc4dy/tc4dy/main/tc4dy_banner.gif" width="800">
 
 ## 🛡️ Cybersecurity & System Development
 **"Defense through offensive research."** 🏴
