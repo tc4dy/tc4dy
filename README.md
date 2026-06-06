@@ -1,8 +1,12 @@
 # Hi there! I'm Tc4dy 👋🐱
 ## Who wants python and alien flavored pizza? 🍕
+
 ---
+
 <img src="https://raw.githubusercontent.com/tc4dy/tc4dy/main/tc4dy_banner.gif" width="700">
+
 ---
+
 ## 👽 Who am I ?
 ### I’m a penetration tester/developer who also happens to be half-cat, half-alien — Night owl, excitable, curious a bit like a sea lion. I live on the ninth planet (great Wi-Fi, terrible pizza delivery), and I sometimes slip into the Backrooms during debugging sessions. Outside of cyberspace, I have a deep love for sea lions. 🪄🦭 #LoveSeaLions🩵
 
