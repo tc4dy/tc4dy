@@ -7,7 +7,7 @@
 ---
 
 ### 👽 Who am I ? (Who wants python and alien flavored pizza? 🍕)
-### I’m a penetration tester/developer who also happens to be half-cat, half-alien — Night owl, excitable, curious a bit like a sea lion. I live on the ninth planet (great Wi-Fi, terrible pizza delivery), and I sometimes slip into the Backrooms during debugging sessions. Outside of cyberspace, I have a deep love for sea lions. 🪄🦭 #LoveSeaLions🩵
+** I’m a penetration tester/developer who also happens to be half-cat, half-alien — Night owl, excitable, curious a bit like a sea lion. I live on the ninth planet (great Wi-Fi, terrible pizza delivery), and I sometimes slip into the Backrooms during debugging sessions. Outside of cyberspace, I have a deep love for ** lions. 🪄🦭 #LoveSeaLions🩵
 
 ---
 
