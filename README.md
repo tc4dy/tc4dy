@@ -11,7 +11,7 @@
 
 ---
 
-### 🧠 Features & Interests
+## 🧠 Features & Interests
 * **🧩 Research & Exploitation:** Writing PoC exploits for real-world daily vulnerabilities, UEFI & TPM, Buffer Overflow (BoF), Privilege Escalation (PrivEsc), web pentest scripting, and reporting by testing the vulnerabilities.
 * **🕸️ Operating Systems:** Linux customization & configuration, operating system debloating (Windows & Linux), BSD family & Linux hardening.
 * **🫆 Privacy & Security:** Kernel & hardware-level OpSec (Intel ME, TPM, coreboot & libreboot customization), telemetry removal, custom ROM, i2p, Lokinet, GNU Net, Tor configuration.
