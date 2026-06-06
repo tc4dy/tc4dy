@@ -1,4 +1,4 @@
-# Hi there! I'm Tc4dy ⋆. 𐙚 ̊🍋‍🟩♪⋆.✮
+# Hi there! I'm Tc4dy ꒰🍀꒱ؘ ࿐ ࿔*:･ﾟ
 
 ---
 
