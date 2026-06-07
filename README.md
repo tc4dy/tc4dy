@@ -40,8 +40,10 @@ I’m a penetration tester/developer who also happens to be half-cat, half-alien
 
 ---
 ## Contact 📞
-### Session Message (https://getsession.org/) ID | 05841dfac9c52eca3ff487c344c8550e4c2fa9c798a9b139b08d5517178fc1ab58 ☎️
-
+### Session Message (https://getsession.org/) ID 
+```bash
+05841dfac9c52eca3ff487c344c8550e4c2fa9c798a9b139b08d5517178fc1ab58 ☎️
+```
 <h2>Project's 
   
 ---  
