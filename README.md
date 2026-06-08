@@ -26,13 +26,13 @@ I’m a penetration tester/developer who also happens to be half-cat, half-alien
 <a href="https://www.credly.com/badges/bug-bounty-hunter"><img src="https://img.shields.io/badge/Bug_Bounty_Hunter-FFA500?style=for-the-badge&logo=hackerone&logoColor=white" alt="Bug Bounty Hunter" /></a>
 <a href="https://www.credly.com/badges/exploit-developer"><img src="https://img.shields.io/badge/Exploit_Developer-1A1A1A?style=for-the-badge&logo=metasploit&logoColor=white" alt="Exploit Developer" /></a>
 <a href="https://www.credly.com/badges/ctf-player"><img src="https://img.shields.io/badge/CTF_Player-00CED1?style=for-the-badge&logo=ctftime&logoColor=white" alt="CTF Player" /></a>
-<a href="https://www.credly.com/badges/incident-responder"><img src="https://img.shields.io/badge/Incident_Responder-FF4500?style=for-the-badge&logo=splunk&logoColor=white" alt="Incident Responder" /></a>
 <a href="https://www.credly.com/badges/threat-hunter"><img src="https://img.shields.io/badge/Threat_Hunter-2E8B57?style=for-the-badge&logo=crowdstrike&logoColor=white" alt="Threat Hunter" /></a>
 <a href="https://www.credly.com/badges/forensic-analyzer"><img src="https://img.shields.io/badge/Forensic_Analyzer-8B4513?style=for-the-badge&logo=autopsy&logoColor=white" alt="Forensic Analyzer" /></a>
 <a href="https://www.credly.com/badges/red-teamer"><img src="https://img.shields.io/badge/Red_Teamer-8B0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Teamer" /></a>
 <a href="https://www.credly.com/badges/kernel-exploit-developer"><img src="https://img.shields.io/badge/Kernel_Exploit_Developer-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Kernel Exploit Developer" /></a>
 <a href="https://www.credly.com/badges/firmware-hacker"><img src="https://img.shields.io/badge/Firmware_Hacker-4B0082?style=for-the-badge&logo=uefi&logoColor=white" alt="Firmware Hacker" /></a>
 <a href="https://www.credly.com/badges/embedded-security"><img src="https://img.shields.io/badge/Embedded_Security-FF8C00?style=for-the-badge&logo=arm&logoColor=white" alt="Embedded Security" /></a>
+<a href="https://www.credly.com/badges/incident-responder"><img src="https://img.shields.io/badge/Incident_Responder-FF4500?style=for-the-badge&logo=splunk&logoColor=white" alt="Incident Responder" /></a>
 </p>
 
 ---
