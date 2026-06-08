@@ -17,6 +17,8 @@ I’m a penetration tester/developer who also happens to be half-cat, half-alien
 * **🫆 Privacy & Security:** Kernel & hardware-level OpSec (Intel ME, TPM, coreboot & libreboot customization), telemetry removal, custom ROM, i2p, Lokinet, GNU Net, Tor configuration.
 * **🏆 Programming:** **Python**, Go Lang, C Family, Java, (With Scripting), Assembly for Kernel, Bash/PowerShell Automation.
 
+---
+
 <p align="left">
 <a href="https://www.credly.com/badges/penetration-tester"><img src="https://img.shields.io/badge/Penetration_Tester-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Penetration Tester" /></a>
 <a href="https://www.credly.com/badges/reverse-engineering"><img src="https://img.shields.io/badge/Reverse_Engineering-6A0DAD?style=for-the-badge&logo=ghidra&logoColor=white" alt="Reverse Engineering" /></a>
@@ -29,6 +31,7 @@ I’m a penetration tester/developer who also happens to be half-cat, half-alien
 <a href="https://www.credly.com/badges/forensic-analyzer"><img src="https://img.shields.io/badge/Forensic_Analyzer-8B4513?style=for-the-badge&logo=autopsy&logoColor=white" alt="Forensic Analyzer" /></a>
 <a href="https://www.credly.com/badges/red-teamer"><img src="https://img.shields.io/badge/Red_Teamer-8B0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Teamer" /></a>
 </p>
+
 ---
 
 ### 💻 Technologies & Tools
