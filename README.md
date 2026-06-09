@@ -9,11 +9,27 @@
 ### 👽 Who am I ? (Who wants python and alien flavored pizza? 🍕)
 I’m a penetration tester/developer who also happens to be half-cat, half-alien — Night owl, excitable, curious a bit like a sea lion. I live on the ninth planet (great Wi-Fi, terrible pizza delivery), and I sometimes slip into the Backrooms during debugging sessions. Outside of cyberspace, I have a deep love for lions. 🪄🦭 #LoveSeaLions🩵 
 
-### My Favorite Top 3 Project :>
+### My Favorite Projects :>
 
 [![HuntCat](https://img.shields.io/badge/🐱-HuntCat-blue?style=for-the-badge&logo=github)](https://github.com/tc4dy/HuntCat)
-[![ironshell-x86](https://img.shields.io/badge/⚡-ironshell--x86-green?style=for-the-badge)](https://github.com/tc4dy/ironshell-x86)
-[![CVE-2026-24061-Exploit](https://img.shields.io/badge/⭐-CVE--2026--24061%20PoC%20Exploit-orange?style=for-the-badge)](https://github.com/tc4dy/CVE-2026-24061-PoC-Exploit)
+
+[![ironshell-x86](https://img.shields.io/badge/🔩-ironshell--x86-silver?style=for-the-badge&logo=github)](https://github.com/tc4dy/ironshell-x86)
+
+[![SimplePot](https://img.shields.io/badge/🍯-SimplePot-gold?style=for-the-badge&logo=github)](https://github.com/tc4dy/SimplePot)
+
+[![Catify](https://img.shields.io/badge/🐱-Catify-purple?style=for-the-badge&logo=github)](https://github.com/tc4dy/Catify)
+
+---
+
+### My Favorite PoC (Proof of Concept) Exploits :s
+
+[![CVE-2026-24061](https://img.shields.io/badge/🚀-CVE--2026--24061-red?style=for-the-badge&logo=github)](https://github.com/tc4dy/CVE-2026-24061-PoC-Exploit)
+
+[![CVE-2026-0073](https://img.shields.io/badge/🔓-CVE--2026--0073-orange?style=for-the-badge&logo=github)](https://github.com/tc4dy/CVE-2026-0073-PoC-Exploit)
+
+[![CVE-2026-41940](https://img.shields.io/badge/💥-CVE--2026--41940-yellow?style=for-the-badge&logo=github)](https://github.com/tc4dy/CVE-2026-41940-PoC-Exploit)
+
+[![CVE-2026-29000](https://img.shields.io/badge/🔥-CVE--2026--29000-purple?style=for-the-badge&logo=github)](https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit)
 
 ---
 
