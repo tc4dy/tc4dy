@@ -7,7 +7,13 @@
 ---
 
 ### 👽 Who am I ? (Who wants python and alien flavored pizza? 🍕)
-I’m a penetration tester/developer who also happens to be half-cat, half-alien — Night owl, excitable, curious a bit like a sea lion. I live on the ninth planet (great Wi-Fi, terrible pizza delivery), and I sometimes slip into the Backrooms during debugging sessions. Outside of cyberspace, I have a deep love for lions. 🪄🦭 #LoveSeaLions🩵 [![HuntCat](https://img.shields.io/badge/🐱-My%20Favorite%20Project%20HuntCat-blue?style=for-the-badge&logo=github)](https://github.com/tc4dy/HuntCat)
+I’m a penetration tester/developer who also happens to be half-cat, half-alien — Night owl, excitable, curious a bit like a sea lion. I live on the ninth planet (great Wi-Fi, terrible pizza delivery), and I sometimes slip into the Backrooms during debugging sessions. Outside of cyberspace, I have a deep love for lions. 🪄🦭 #LoveSeaLions🩵 
+
+### Favorite TOP 3 Project 💎
+
+[![ironshell-x86(https://img.shields.io/badge/⚡-ironshell--x86-orange?style=for-the-badge)](https://github.com/tc4dy/ironshell-x86)
+[![HuntCat](https://img.shields.io/badge/🐱-My%20Favorite%20Project%20HuntCat-blue?style=for-the-badge&logo=github)](https://github.com/tc4dy/HuntCat)
+[![CVE-2026-24061-Exploit](https://img.shields.io/badge/⭐-CVE--2026--24061%20PoC%20Exploit-orange?style=for-the-badge)](https://github.com/tc4dy/CVE-2026-24061-PoC-Exploit)
 
 ---
 
