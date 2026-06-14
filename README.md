@@ -22,8 +22,8 @@ I’m a penetration tester/developer who also happens to be half-cat, half-alien
 ---
 
 ## 🧠 Features & Interests
-* **🧩 Research & Exploitation:** Writing PoC exploits for real-world daily vulnerabilities, UEFI & TPM, Buffer Overflow (BoF), Privilege Escalation (PrivEsc), web pentest scripting, and reporting by testing the vulnerabilities.
-* **🕸️ Operating Systems:** Linux customization & configuration, operating system debloating (Windows & Linux), BSD family & Linux hardening.
+* **🧩 Research & Exploitation:** Writing PoC exploits for real-world daily vulnerabilities, UEFI & TPM, Buffer Overflow (BoF), Privilege Escalation (PrivEsc), web pentest scripting, Kernel and system-level vulnerability investigation. Tool and exploit renewal and modification. Reporting vulnerabilities.
+* **🕸️ Operating Systems:** Linux customization & configuration, operating system debloating (Windows & Linux), BSD family & Linux hardening. UEFI persistent virus writing attempts and code reviews. Exploiting kernel-level code compilation vulnerabilities.
 * **🫆 Privacy & Security:** Kernel & hardware-level OpSec (Intel ME, TPM, coreboot & libreboot customization), telemetry removal, custom ROM, i2p, Lokinet, GNU Net, Tor configuration.
 * **🏆 Programming:** **Python**, Go Lang, C Family, Java, (With Scripting), Assembly for Kernel, Bash/PowerShell Automation.
 
