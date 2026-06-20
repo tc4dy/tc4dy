@@ -16,7 +16,7 @@ I’m a penetration tester/developer who also happens to be half-cat, half-alien
 
 ### My PoC (Proof of Concept) Exploits :s
 
-[![CVE-2026-24061](https://img.shields.io/badge/🚀-CVE--2026--24061-red?style=for-the-badge&logo=github)](https://github.com/tc4dy/CVE-2026-24061-PoC-Exploit) [![CVE-2026-0073](https://img.shields.io/badge/🔓-CVE--2026--0073-orange?style=for-the-badge&logo=github)](https://github.com/tc4dy/CVE-2026-0073-PoC-Exploit) [![CVE-2026-41940](https://img.shields.io/badge/💥-CVE--2026--41940-green?style=for-the-badge&logo=github)](https://github.com/tc4dy/CVE-2026-41940-PoC-Exploit) [![CVE-2026-29000](https://img.shields.io/badge/🔥-CVE--2026--29000-purple?style=for-the-badge&logo=github)](https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit)
+[![CVE-2026-24061](https://img.shields.io/badge/🚀-CVE--2026--24061-red?style=for-the-badge&logo=github)](https://github.com/tc4dy/CVE-2026-24061-PoC-Exploit) [![CVE-2026-0073](https://img.shields.io/badge/🔓-CVE--2026--0073-orange?style=for-the-badge&logo=github)](https://github.com/tc4dy/CVE-2026-0073-PoC-Exploit) [![CVE-2026-41940](https://img.shields.io/badge/💥-CVE--2026--41940-green?style=for-the-badge&logo=github)](https://github.com/tc4dy/CVE-2026-41940-PoC-Exploit) [![CVE-2026-29000](https://img.shields.io/badge/🔥-CVE--2026--29000-purple?style=for-the-badge&logo=github)](https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit) [![CVE-2026-41091](https://img.shields.io/badge/☀️-SolarFlare_(PoC)-darkblue?style=for-the-badge&logo=github)](https://github.com/tc4dy/CVE-2026-41091-PoC-Exploit)
 
 ---
 
