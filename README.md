@@ -11,8 +11,7 @@ I’m a penetration tester/developer who also happens to be half-cat, half-alien
 
 ### My Favorite Projects :>
 
-[![HuntCat](https://img.shields.io/badge/🐱-HuntCat-blue?style=for-the-badge&logo=github)](https://github.com/tc4dy/HuntCat) [![ironshell-x86](https://img.shields.io/badge/🔩-ironshell--x86-dark_green?style=for-the-badge&logo=github)](https://github.com/tc4dy/ironshell-x86) [![SimplePot](https://img.shields.io/badge/🍯-SimplePot-gold?style=for-the-badge&logo=github)](https://github.com/tc4dy/SimplePot) [![Catify](https://img.shields.io/badge/🐱-Catify-purple?style=for-the-badge&logo=github)](https://github.com/tc4dy/Catify) [![CVE-2026-41091](https://img.shields.io/badge/☀️-SolarFlare_(PoC)-darkblue?style=for-the-badge&logo=github)](https://github.com/tc4dy/CVE-2026-41091-PoC-Exploit)☀️-SolarFlare_(PoC)-darkblue?style=for-the-badge&logo=github)](https://github.com/tc4dy/CVE-2026-41091-PoC-Exploit)
-
+[![HuntCat](https://img.shields.io/badge/🐱-HuntCat-blue?style=for-the-badge&logo=github)](https://github.com/tc4dy/HuntCat) [![ironshell-x86](https://img.shields.io/badge/🔩-ironshell--x86-dark_green?style=for-the-badge&logo=github)](https://github.com/tc4dy/ironshell-x86) [![SimplePot](https://img.shields.io/badge/🍯-SimplePot-gold?style=for-the-badge&logo=github)](https://github.com/tc4dy/SimplePot) [![Catify](https://img.shields.io/badge/🐱-Catify-purple?style=for-the-badge&logo=github)](https://github.com/tc4dy/Catify)
 ---
 
 ### My PoC (Proof of Concept) Exploits :s
