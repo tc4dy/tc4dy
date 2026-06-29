@@ -83,7 +83,5 @@ I’m a penetration tester/developer who also happens to be half-cat, half-alien
 
 https://leavemyinternet.github.io 🚀
   
-https://beautifulsource.github.io 💎
-
-https://ctfsupervisor.github.io 💥 </h2>
+https://beautifulsource.github.io 💎 </h2>
 
