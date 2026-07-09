@@ -1,7 +1,8 @@
 # Hi there! I'm Tc4dy! 💢࿐ ࿔🦎
 
 ---
-![Tc4dy Banner](tc4dy_bannr.gif)
+
+<img src="tc4dy_bnner.gif" width="700" alt="Tc4dy Banner">
 
 ---
 
