@@ -1,4 +1,4 @@
-# Hi there! I'm Tc4dy! 💢࿐ ࿔🦎
+# Hi there! I'm Tc4dy! ࿐🪻✮⋆˙
 
 ---
 <img src="https://raw.githubusercontent.com/tc4dy/tc4dy/main/tc4dy_purple2.gif" width="700">
