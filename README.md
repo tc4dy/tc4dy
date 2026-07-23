@@ -5,8 +5,9 @@
 
 ---
 
-### 👽 Who am I ? (Who wants python and alien flavored pizza? 🍕)
-I’m a penetration testing specialist and developer—and also half-human, half-alien. At night, I write astral travel programmes and wipe the code of companies that write closed-source code; I also look a bit like a sea lion. I live on the ninth planet (the Wi-Fi’s brilliant, the pizza delivery’s rubbish) and sometimes I dive into Backrooms during debugging sessions. Outside the cyber temple, I harbour a deep love for sea lions. 🪄🦭 #LoveSeaLions🩵
+### 🧑‍💻 Who am I ? (Who wants python flavored pizza? 🍕)
+I’m a 16-year-old cybersecurity tester and software developer; I’m also half-human, half-alien. My homeland is Turkey. At night, I write astral travel programmes and delete the code of companies that write closed-source code; I also look a bit like a sea lion. I live on the ninth planet (the Wi-Fi’s brilliant, the pizza delivery’s rubbish) and sometimes I dive into Backrooms during debugging sessions. Outside the cyber temple, I harbour a deep love for sea lions. 🪄🦭 #LoveSeaLions🩵
+
 
 ### My Favorite Projects :>
 
