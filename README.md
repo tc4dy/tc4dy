@@ -76,7 +76,7 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 ```bash
 05841dfac9c52eca3ff487c344c8550e4c2fa9c798a9b139b08d5517178fc1ab58 
 ```
-<h2>Project's 
+<h2>Project's </h2>
   
 ---  
 
@@ -84,7 +84,9 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 
 **🧅 Support Tor for Freedom** — Beginner-friendly guide to fight censorship by running Tor relays, bridges & Snowflake. Ready-to-use configs & free VPS list.
 
+<h3>
+
 https://leavemyinternet.github.io 🚀
   
-https://beautifulsource.github.io 💎 </h2>
+https://beautifulsource.github.io 💎 </h3>
 
