@@ -8,10 +8,6 @@
 ### 🧑‍💻 Who am I ? (Who wants python flavored pizza? 🙏🍕)
 I’m a 16-year-old cybersecurity tester and software developer; I’m also half-human, half-alien. My homeland is Turkey. At night, I write astral travel programmes and delete the code of companies that write closed-source code; I also look a bit like a sea lion. I live on the ninth planet (the Wi-Fi’s brilliant, the pizza delivery’s rubbish) and sometimes I dive into Backrooms during debugging sessions. Outside the cyber temple, I harbour a deep love for sea lions. 🪄🦭 #LoveSeaLions🩵
 
-[![Tor Guide](https://img.shields.io/badge/🧅-Support_Tor_for_Freedom-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)](https://github.com/tc4dy/support-tor-for-freedom)
-
-**🧅 Support Tor for Freedom** — Beginner-friendly guide to fight censorship by running Tor relays, bridges & Snowflake. Ready-to-use configs & free VPS list.
-
 ### My Favorite Projects :>
 
 [![HuntCat](https://img.shields.io/badge/🐱-HuntCat-blue?style=for-the-badge&logo=github)](https://github.com/tc4dy/HuntCat) [![ironshell-x86](https://img.shields.io/badge/🔩-ironshell--x86-dark_green?style=for-the-badge&logo=github)](https://github.com/tc4dy/ironshell-x86) [![SimplePot](https://img.shields.io/badge/🍯-GodasProject-gold?style=for-the-badge&logo=github)](https://github.com/tc4dy/godas) [![Catify](https://img.shields.io/badge/🐱-Catify-purple?style=for-the-badge&logo=github)](https://github.com/tc4dy/Catify)
@@ -83,6 +79,10 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 <h2>Project's 
   
 ---  
+
+[![Tor Guide](https://img.shields.io/badge/🧅-Support_Tor_for_Freedom-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)](https://github.com/tc4dy/support-tor-for-freedom)
+
+**🧅 Support Tor for Freedom** — Beginner-friendly guide to fight censorship by running Tor relays, bridges & Snowflake. Ready-to-use configs & free VPS list.
 
 https://leavemyinternet.github.io 🚀
   
