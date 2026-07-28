@@ -62,7 +62,7 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="36" height="36" alt="Vim" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
@@ -84,9 +84,11 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 
 **🧅 Support Tor for Freedom** — Beginner-friendly guide to fight censorship by running Tor relays, bridges & Snowflake. Ready-to-use configs & free VPS list.
 
-<h3>
+[![LeaveMyInternet](https://img.shields.io/badge/🌐-LeaveMyInternet-brightgreen?style=for-the-badge)](https://leavemyinternet.github.io) 
 
-https://leavemyinternet.github.io 🚀
-  
-https://beautifulsource.github.io 💎 </h3>
+**🌐 LeaveMyInternet** — An open source awareness project fighting for a free, private, and untracked internet.
+
+[![BeautifulSource](https://img.shields.io/badge/💎-BeautifulSource-orange?style=for-the-badge)](https://beautifulsource.github.io)
+
+**💎 BeautifulSource** — A comprehensive guide to open source alternatives for everyday closed-source software.
 
