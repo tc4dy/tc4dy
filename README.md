@@ -22,10 +22,10 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 ---
 
 ## 🧠 Features & Interests
-* **🧩 Research & Exploitation:** Writing PoC exploits for real-world daily vulnerabilities, UEFI & TPM, Buffer Overflow (BoF), Reverse Engineering, Privilege Escalation (PrivEsc), web pentest scripting etc., Kernel and system-level vulnerability investigation. Tool and exploit renewal and modification. Reporting vulnerabilities.
-* **🕸️ Operating Systems:** Linux customization & configuration, operating system debloating (Windows & Linux), BSD family & Linux hardening. UEFI persistent virus writing attempts and code reviews. Exploiting kernel-level code compilation vulnerabilities.
-* **🫆 Privacy & Security:** Kernel & hardware-level OpSec (Intel ME, TPM, coreboot & libreboot customization), telemetry removal, Open-source hardware (RISC-V, POWER9, lowRISC), custom ROM, i2p, Lokinet, GNU Net, Nym, Tor configuration. 
-* **🏆 Programming:** **Python**, Go Lang, C Family, Java, (With Scripting), Assembly for Kernel, Bash/PowerShell Automation.
+* **🔬 Research & Exploitation:** Writing PoC exploits for real-world daily vulnerabilities, UEFI & TPM, Buffer Overflow (BoF), Reverse Engineering, Privilege Escalation (PrivEsc), web pentest scripting etc., Kernel and system-level vulnerability investigation. Tool and exploit renewal and modification. Reporting vulnerabilities.
+* **⚙️ Operating Systems:** Linux customization & configuration, operating system debloating (Windows & Linux), BSD family & Linux hardening. UEFI persistent virus writing attempts and code reviews. Exploiting kernel-level code compilation vulnerabilities.
+* **🛡️ Privacy & Security:** Kernel & hardware-level OpSec (Intel ME, TPM, coreboot & libreboot customization), telemetry removal, Open-source hardware (RISC-V, POWER9, lowRISC), custom ROM, i2p, Lokinet, GNU Net, Nym, Tor configuration. 
+* **💻 Programming:** **Python**, Go Lang, C Family, Java, (With Scripting), Assembly for Kernel, Bash/PowerShell Automation.
 
 ---
 
@@ -61,8 +61,8 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 </p>
 
 ---
-## Contact 📞
-### Session Message (https://getsession.org/) ID ☎️
+## Contact 👾
+### Session Message (https://getsession.org/) ID:
 ```bash
 05841dfac9c52eca3ff487c344c8550e4c2fa9c798a9b139b08d5517178fc1ab58 
 ```
@@ -70,15 +70,15 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
   
 ---  
 
-[![Tor Guide](https://img.shields.io/badge/🧅-Support_Tor_for_Freedom-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)](https://github.com/tc4dy/support-tor-for-freedom)
+[![Tor Guide](https://img.shields.io/badge/Support_Tor_for_Freedom-7f1aa1?style=for-the-badge&logo=torproject&logoColor=white)](https://github.com/tc4dy/support-tor-for-freedom)
 
-**🧅 Support Tor for Freedom** — Beginner-friendly guide to fight censorship by running Tor relays, bridges & Snowflake. Ready-to-use configs & free VPS list.
+**Support Tor for Freedom** — Beginner-friendly guide to fight censorship by running Tor relays, bridges & Snowflake. Ready-to-use configs & free VPS list.
 
-[![LeaveMyInternet](https://img.shields.io/badge/🌐-LeaveMyInternet-brightgreen?style=for-the-badge)](https://leavemyinternet.github.io) 
+[![LeaveMyInternet](https://img.shields.io/badge/LeaveMyInternet-42214d?style=for-the-badge&logo=internetarchive&logoColor=white)](https://leavemyinternet.github.io)
 
-**🌐 LeaveMyInternet** — An open source awareness project fighting for a free, private, and untracked internet.
+**LeaveMyInternet** — An open source awareness project fighting for a free, private, and untracked internet.
 
-[![BeautifulSource](https://img.shields.io/badge/💎-BeautifulSource-orange?style=for-the-badge)](https://beautifulsource.github.io)
+[![BeautifulSource](https://img.shields.io/badge/BeautifulSource-9876a3?style=for-the-badge&logo=buildkite&logoColor=white)](https://beautifulsource.github.io)
 
-**💎 BeautifulSource** — A comprehensive guide to open source alternatives for everyday closed-source software.
+**BeautifulSource** — A comprehensive guide to open source alternatives for everyday closed-source software.
 
