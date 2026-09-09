@@ -34,11 +34,11 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 <a href="https://www.credly.com/badges/malware-analysis"><img src="https://img.shields.io/badge/Malware_Analysis-228B22?style=for-the-badge&logo=virustotal&logoColor=white" alt="Malware Analysis" /></a>
 <a href="https://www.credly.com/badges/incident-responder"><img src="https://img.shields.io/badge/Incident_Responder-FF4500?style=for-the-badge&logo=splunk&logoColor=white" alt="Incident Responder" /></a>
 <a href="https://www.credly.com/badges/exploit-developer"><img src="https://img.shields.io/badge/Exploit_Developer-1A1A1A?style=for-the-badge&logo=metasploit&logoColor=white" alt="Exploit Developer" /></a>
-<a href="https://www.credly.com/badges/ctf-player"><img src="https://img.shields.io/badge/CTF_Player-00CED1?style=for-the-badge&logo=ctftime&logoColor=white" alt="CTF Player" /></a>
+<a href="https://www.credly.com/badges/low-level-firmware-developer"><img src="https://img.shields.io/badge/Low_Level_Firmware_Developer-2D2D2D?style=for-the-badge&logo=linux&logoColor=white" alt="Low Level Firmware Developer" /></a>
 <a href="https://www.credly.com/badges/threat-hunter"><img src="https://img.shields.io/badge/Threat_Hunter-2E8B57?style=for-the-badge&logo=crowdstrike&logoColor=white" alt="Threat Hunter" /></a>
 <a href="https://www.credly.com/badges/forensic-analyzer"><img src="https://img.shields.io/badge/Forensic_Analyzer-8B4513?style=for-the-badge&logo=autopsy&logoColor=white" alt="Forensic Analyzer" /></a>
 <a href="https://www.credly.com/badges/red-teamer"><img src="https://img.shields.io/badge/Red_Teamer-8B0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Teamer" /></a>
-<a href="https://www.credly.com/badges/kernel-exploit-developer"><img src="https://img.shields.io/badge/Kernel_Exploit_Developer-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Kernel Exploit Developer" /></a>
+<a href="https://www.credly.com/badges/golang-developer"><img src="https://img.shields.io/badge/Go_Developer-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Developer" /></a>
 <a href="https://www.credly.com/badges/assembly-language-programmer"><img src="https://img.shields.io/badge/Assembly_Language_Programmer-2D2D2D?style=for-the-badge&logo=gnu&logoColor=white" alt="Assembly Language Programmer" /></a>
 <a href="https://www.credly.com/badges/embedded-security"><img src="https://img.shields.io/badge/Embedded_Security-FF8C00?style=for-the-badge&logo=arm&logoColor=white" alt="Embedded Security" /></a>
 </p>
