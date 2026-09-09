@@ -37,42 +37,48 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 
 ### Technologies & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-7f1aa1?style=flat&logo=python&logoColor=white" width="36" height="36" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-42214d?style=flat&logo=go&logoColor=white" width="36" height="36" alt="Go" />
-  <img src="https://img.shields.io/badge/Java-9876a3?style=flat&logo=java&logoColor=white" width="36" height="36" alt="Java" />
-  <img src="https://img.shields.io/badge/Bash-270333?style=flat&logo=gnubash&logoColor=white" width="36" height="36" alt="Bash" />
-  <img src="https://img.shields.io/badge/C-7f1aa1?style=flat&logo=c&logoColor=white" width="36" height="36" alt="C" />
-  <img src="https://img.shields.io/badge/C++-42214d?style=flat&logo=cplusplus&logoColor=white" width="36" height="36" alt="C++" />
-  <img src="https://img.shields.io/badge/Rust-9876a3?style=flat&logo=rust&logoColor=white" width="36" height="36" alt="Rust" />
-  <img src="https://img.shields.io/badge/Assembly-270333?style=flat&logo=gnu&logoColor=white" width="36" height="36" alt="Assembly" />
-  <img src="https://img.shields.io/badge/C%23-7f1aa1?style=flat&logo=csharp&logoColor=white" width="36" height="36" alt="C#" />
-  <img src="https://img.shields.io/badge/Linux-42214d?style=flat&logo=linux&logoColor=white" width="36" height="36" alt="Linux" />
-  <img src="https://img.shields.io/badge/Fedora-9876a3?style=flat&logo=fedora&logoColor=white" width="36" height="36" alt="Fedora" />
-  <img src="https://img.shields.io/badge/Ubuntu-270333?style=flat&logo=ubuntu&logoColor=white" width="36" height="36" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/FreeBSD-7f1aa1?style=flat&logo=freebsd&logoColor=white" width="36" height="36" alt="FreeBSD" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-42214d?style=flat&logo=raspberrypi&logoColor=white" width="36" height="36" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Arduino-9876a3?style=flat&logo=arduino&logoColor=white" width="36" height="36" alt="Arduino" />
-  <img src="https://img.shields.io/badge/ESP32-270333?style=flat&logo=espressif&logoColor=white" width="36" height="36" alt="ESP32" />
-  <img src="https://img.shields.io/badge/UEFI-7f1aa1?style=flat&logo=uefi&logoColor=white" width="36" height="36" alt="UEFI" />
-  <img src="https://img.shields.io/badge/Ghidra-42214d?style=flat&logo=ghidra&logoColor=white" width="36" height="36" alt="Ghidra" />
-  <img src="https://img.shields.io/badge/IDA%20Pro-9876a3?style=flat&logo=idasoftware&logoColor=white" width="36" height="36" alt="IDA Pro" />
-  <img src="https://img.shields.io/badge/x64dbg-270333?style=flat&logo=x64dbg&logoColor=white" width="36" height="36" alt="x64dbg" />
-  <img src="https://img.shields.io/badge/Metasploit-7f1aa1?style=flat&logo=metasploit&logoColor=white" width="36" height="36" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-42214d?style=flat&logo=burpsuite&logoColor=white" width="36" height="36" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Nmap-9876a3?style=flat&logo=nmap&logoColor=white" width="36" height="36" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Wireshark-270333?style=flat&logo=wireshark&logoColor=white" width="36" height="36" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Aircrack--ng-7f1aa1?style=flat&logo=aircrackng&logoColor=white" width="36" height="36" alt="Aircrack-ng" />
-  <img src="https://img.shields.io/badge/Tor-42214d?style=flat&logo=torproject&logoColor=white" width="36" height="36" alt="Tor" />
-  <img src="https://img.shields.io/badge/I2P-9876a3?style=flat&logo=i2p&logoColor=white" width="36" height="36" alt="I2P" />
-  <img src="https://img.shields.io/badge/Tails-270333?style=flat&logo=tails&logoColor=white" width="36" height="36" alt="Tails" />
-  <img src="https://img.shields.io/badge/VS%20Code-7f1aa1?style=flat&logo=visualstudiocode&logoColor=white" width="36" height="36" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Vim-42214d?style=flat&logo=vim&logoColor=white" width="36" height="36" alt="Vim" />
-  <img src="https://img.shields.io/badge/Git-9876a3?style=flat&logo=git&logoColor=white" width="36" height="36" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-270333?style=flat&logo=docker&logoColor=white" width="36" height="36" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-7f1aa1?style=flat&logo=kubernetes&logoColor=white" width="36" height="36" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/MySQL-42214d?style=flat&logo=mysql&logoColor=white" width="36" height="36" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-9876a3?style=flat&logo=postgresql&logoColor=white" width="36" height="36" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-270333?style=flat&logo=mongodb&logoColor=white" width="36" height="36" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Python-7f1aa1?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-42214d?style=flat&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Java-9876a3?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Bash-270333?style=flat&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/C%2B%2B-7f1aa1?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-42214d?style=flat&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Assembly-9876a3?style=flat&logo=gnu&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/C%23-270333?style=flat&logo=csharp&logoColor=white" alt="C#" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Linux-7f1aa1?style=flat&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Fedora-42214d?style=flat&logo=fedora&logoColor=white" alt="Fedora" />
+  <img src="https://img.shields.io/badge/Ubuntu-9876a3?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/FreeBSD-270333?style=flat&logo=freebsd&logoColor=white" alt="FreeBSD" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-7f1aa1?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Arduino-42214d?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ESP32-9876a3?style=flat&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/UEFI-270333?style=flat&logo=uefi&logoColor=white" alt="UEFI" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Ghidra-7f1aa1?style=flat&logo=ghidra&logoColor=white" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/IDA%20Pro-42214d?style=flat&logo=idasoftware&logoColor=white" alt="IDA Pro" />
+  <img src="https://img.shields.io/badge/x64dbg-9876a3?style=flat&logo=x64dbg&logoColor=white" alt="x64dbg" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Metasploit-7f1aa1?style=flat&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-42214d?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-9876a3?style=flat&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-270333?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-7f1aa1?style=flat&logo=aircrackng&logoColor=white" alt="Aircrack-ng" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Tor-42214d?style=flat&logo=torproject&logoColor=white" alt="Tor" />
+  <img src="https://img.shields.io/badge/I2P-9876a3?style=flat&logo=i2p&logoColor=white" alt="I2P" />
+  <img src="https://img.shields.io/badge/Tails-270333?style=flat&logo=tails&logoColor=white" alt="Tails" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/VS%20Code-7f1aa1?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Vim-42214d?style=flat&logo=vim&logoColor=white" alt="Vim" />
+  <img src="https://img.shields.io/badge/Git-9876a3?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-270333?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-7f1aa1?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/MySQL-42214d?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-9876a3?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-270333?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ---
