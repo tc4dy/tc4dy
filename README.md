@@ -21,7 +21,7 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 
 ---
 
-## 🧠 Features & Interests
+## 👾 Features & Interests
 * **🔬 Research & Exploitation:** Writing PoC exploits for real-world daily vulnerabilities, UEFI & TPM, Buffer Overflow (BoF), Reverse Engineering, Privilege Escalation (PrivEsc), web pentest scripting etc., Kernel and system-level vulnerability investigation. Tool and exploit renewal and modification. Reporting vulnerabilities.
 * **⚙️ Operating Systems:** Linux customization & configuration, operating system debloating (Windows & Linux), BSD family & Linux hardening. UEFI persistent virus writing attempts and code reviews. Exploiting kernel-level code compilation vulnerabilities.
 * **🛡️ Privacy & Security:** Kernel & hardware-level OpSec (Intel ME, TPM, coreboot & libreboot customization), telemetry removal, Open-source hardware (RISC-V, POWER9, lowRISC), custom ROM, i2p, Lokinet, GNU Net, Nym, Tor configuration. 
@@ -35,7 +35,7 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 
 ---
 
-### 💻 Technologies & Tools
+### Technologies & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" />
@@ -61,14 +61,16 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 </p>
 
 ---
-## Contact 👾
+
+## Contact 🔮
 ### Session Message (https://getsession.org/) ID:
 ```bash
 05841dfac9c52eca3ff487c344c8550e4c2fa9c798a9b139b08d5517178fc1ab58 
 ```
+
+---
+
 <h2>Project's </h2>
-  
----  
 
 [![Tor Guide](https://img.shields.io/badge/Support_Tor_for_Freedom-7f1aa1?style=for-the-badge&logo=torproject&logoColor=white)](https://github.com/tc4dy/support-tor-for-freedom)
 
