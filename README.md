@@ -5,7 +5,7 @@
 
 ---
 
-### 🧑‍💻 Who am I ? (Who wants python flavored pizza? 🙏🍕)
+### Who am I ? (bash-5.3$ uname -a) :V
 I’m a 16-year-old cybersecurity tester and software developer; I’m also half-human, half-alien. My homeland is Turkey. At night, I write astral travel programmes and delete the code of companies that write closed-source code; I also look a bit like a sea lion. I live on the ninth planet (the Wi-Fi’s brilliant, the pizza delivery’s rubbish) and sometimes I dive into Backrooms during debugging sessions. Outside the cyber temple, I harbour a deep love for sea lions. 🪄🦭 #LoveSeaLions🩵
 
 ### My Favorite Projects :>
@@ -37,27 +37,41 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 
 ### Technologies & Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="Bash" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" width="36" height="36" alt="Fedora" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36" alt="Ubuntu" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/freebsd.svg" width="36" height="36" alt="FreeBSD" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="36" height="36" alt="Vim" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="Bash" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" width="36" height="36" alt="Fedora" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36" alt="Ubuntu" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/freebsd.svg" width="36" height="36" alt="FreeBSD" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/espressif.svg" width="36" height="36" alt="ESP32" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="36" height="36" alt="Vim" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/gnu.svg" width="36" height="36" alt="Assembly" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/ghidra.svg" width="36" height="36" alt="Ghidra" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/idasoftware.svg" width="36" height="36" alt="IDA Pro" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/x64dbg.svg" width="36" height="36" alt="x64dbg" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/metasploit.svg" width="36" height="36" alt="Metasploit" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/burpsuite.svg" width="36" height="36" alt="Burp Suite" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/nmap.svg" width="36" height="36" alt="Nmap" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/wireshark.svg" width="36" height="36" alt="Wireshark" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/aircrackng.svg" width="36" height="36" alt="Aircrack-ng" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/uefi.svg" width="36" height="36" alt="UEFI" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/i2p.svg" width="36" height="36" alt="I2P" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/tails.svg" width="36" height="36" alt="Tails" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/torproject.svg" width="36" height="36" alt="Tor" />
 </p>
 
 ---
