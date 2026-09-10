@@ -10,7 +10,7 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 
 ### My Favorite Projects :>
 
-[![HuntCat](https://img.shields.io/badge/HuntCat-7f1aa1?style=for-the-badge&logo=github)](https://github.com/tc4dy/HuntCat) [![ironshell-x86](https://img.shields.io/badge/ironshell--x86-42214d?style=for-the-badge&logo=github)](https://github.com/tc4dy/ironshell-x86) [![SimplePot](https://img.shields.io/badge/GodasProject-9876a3?style=for-the-badge&logo=github)](https://github.com/tc4dy/godas) [![Catify](https://img.shields.io/badge/Catify-270333?style=for-the-badge&logo=github)](https://github.com/tc4dy/Catify) [![Bot-2319](https://img.shields.io/badge/Bot--2319-270333?style=for-the-badge&logo=github)](https://github.com/tc4dy/Bot2319-DiscordBot)
+[![HuntCat](https://img.shields.io/badge/HuntCat-7f1aa1?style=for-the-badge&logo=github)](https://github.com/tc4dy/HuntCat) [![ironshell-x86](https://img.shields.io/badge/ironshell--x86-42214d?style=for-the-badge&logo=github)](https://github.com/tc4dy/ironshell-x86) [![SimplePot](https://img.shields.io/badge/GodasProject-9876a3?style=for-the-badge&logo=github)](https://github.com/tc4dy/godas) [![Catify](https://img.shields.io/badge/Catify-270333?style=for-the-badge&logo=github)](https://github.com/tc4dy/Catify) [![Bot-2319](https://img.shields.io/badge/Bot--2319-7f1aa1?style=for-the-badge&logo=github)](https://github.com/tc4dy/Bot2319-DiscordBot)
 ---
 
 ### My PoC (Proof of Concept) Exploits :s
