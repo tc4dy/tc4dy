@@ -21,11 +21,11 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 
 ---
 
-## 👾 Features & Interests
-* **🔬 Research & Exploitation:** Writing PoC exploits for real-world daily vulnerabilities, UEFI & TPM, Buffer Overflow (BoF), Reverse Engineering, Privilege Escalation (PrivEsc), web pentest scripting etc., Kernel and system-level vulnerability investigation. Tool and exploit renewal and modification. Reporting vulnerabilities.
-* **⚙️ Operating Systems:** Linux customization & configuration, operating system debloating (Windows & Linux), BSD family & Linux hardening. UEFI persistent virus writing attempts and code reviews. Exploiting kernel-level code compilation vulnerabilities.
-* **🛡️ Privacy & Security:** Kernel & hardware-level OpSec (Intel ME, TPM, coreboot & libreboot customization), telemetry removal, Open-source hardware (RISC-V, POWER9, lowRISC), custom ROM, i2p, Lokinet, GNU Net, Nym, Tor configuration. 
-* **💻 Programming:** **Python**, Go Lang, C Family, Java, (With Scripting), Assembly for Kernel, Bash/PowerShell Automation.
+## Features & Interests
+* **Research & Exploitation:** Writing PoC exploits for real-world daily vulnerabilities, UEFI & TPM, Buffer Overflow (BoF), Reverse Engineering, Privilege Escalation (PrivEsc), web pentest scripting etc., Kernel and system-level vulnerability investigation. Tool and exploit renewal and modification. Reporting vulnerabilities.
+* **Operating Systems:** Linux customization & configuration, operating system debloating (Windows & Linux), BSD family & Linux hardening. UEFI persistent virus writing attempts and code reviews. Exploiting kernel-level code compilation vulnerabilities.
+* **Privacy & Security:** Kernel & hardware-level OpSec (Intel ME, TPM, coreboot & libreboot customization), telemetry removal, Open-source hardware (RISC-V, POWER9, lowRISC), custom ROM, i2p, Lokinet, GNU Net, Nym, Tor configuration. 
+* **Programming:** **Python**, Go Lang, C Family, Java, (With Scripting), Assembly for Kernel, Bash/PowerShell Automation.
 
 ---
 
@@ -83,7 +83,7 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 
 ---
 
-## Contact 🔮
+## Contact
 ### Session Message (https://getsession.org/) ID:
 ```bash
 0578d8873eeb67a0f504752e65f0efabf23debf44d8842077997fadb8700207273
