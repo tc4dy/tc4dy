@@ -1,5 +1,4 @@
 # Hi there! I'm Tc4dy! 👾 ࿐🪻✮⋆˙
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tc4dy.tc4dy&left_color=1a0033&right_color=8A2BE2)
 
 ---
 <img src="https://raw.githubusercontent.com/tc4dy/tc4dy/main/tc4dy_purple2.gif" width="800">
