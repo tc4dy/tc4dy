@@ -81,8 +81,6 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
   <img src="https://img.shields.io/badge/MongoDB-270333?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-![GitHub Stars](https://img.shields.io/github/stars/tc4dy?style=for-the-badge&color=purple)
-
 ---
 
 ## Contact
@@ -107,3 +105,5 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 
 **BeautifulSource** — A comprehensive guide to open source alternatives for everyday closed-source software.
 
+![GitHub Stars](https://img.shields.io/github/stars/tc4dy?style=for-the-badge&color=darkviolet)
+![GitHub Streak](https://streak-stats.demolab.com?user=tc4dy&theme=dark&background=1a0033&border=8A2BE2&stroke=8A2BE2&ring=8A2BE2&fire=BF40BF&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=9B59B6&currStreakNum=FFFFFF&sideNums=FFFFFF)
