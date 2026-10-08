@@ -81,7 +81,7 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
   <img src="https://img.shields.io/badge/MongoDB-270333?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tc4dy&show_icons=true)
+![GitHub Stars](https://img.shields.io/github/stars/tc4dy?style=for-the-badge&color=purple)
 
 ---
 
