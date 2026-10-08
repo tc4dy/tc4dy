@@ -85,12 +85,6 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tc4dy&theme=dark&background=1a0033&border=8A2BE2&stroke=8A2BE2&ring=8A2BE2&fire=BF40BF&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=9B59B6&currStreakNum=FFFFFF&sideNums=FFFFFF)
 
-## Contact
-### Session Message (https://getsession.org/) ID:
-```bash
-0578d8873eeb67a0f504752e65f0efabf23debf44d8842077997fadb8700207273
-```
-
 ---
 
 <h2>Project's </h2>
@@ -106,3 +100,9 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 [![BeautifulSource](https://img.shields.io/badge/BeautifulSource-9876a3?style=for-the-badge&logo=buildkite&logoColor=white)](https://beautifulsource.github.io)
 
 **BeautifulSource** — A comprehensive guide to open source alternatives for everyday closed-source software.
+
+## Contact
+### Session Message (https://getsession.org/) ID:
+```bash
+0578d8873eeb67a0f504752e65f0efabf23debf44d8842077997fadb8700207273
+```
