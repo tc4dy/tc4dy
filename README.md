@@ -1,7 +1,7 @@
 # Hi there! I'm Tc4dy! 👾 ࿐🪻✮⋆˙
 
 <img src="https://raw.githubusercontent.com/tc4dy/tc4dy/main/tc4dy_purple2.gif" width="800">
-<img src="https://komarev.com/ghpvc/?username=tc4dy" alt="Profile Views" />
+![Visitors](https://komarev.com/ghpvc/?username=tc4dy&color=FF0000&style=for-the-badge&label=VISITORS&labelColor=000000)
 
 ---
 
