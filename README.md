@@ -7,11 +7,10 @@
 ### Who am I ? (bash-5.3$ uname -a) :V
 I’m a 16-year-old cybersecurity tester and software developer; I’m also half-human, half-alien. My homeland is Turkey. At night, I write astral travel programmes and delete the code of companies that write closed-source code; I also look a bit like a sea lion. I live on the ninth planet (the Wi-Fi’s brilliant, the pizza delivery’s rubbish) and sometimes I dive into Backrooms during debugging sessions. Outside the cyber temple, I harbour a deep love for sea lions. 🦭 #LoveSeaLions
 
-![Visitors](https://komarev.com/ghpvc/?username=tc4dy&color=800080&style=for-the-badge&label=VISITORS&labelColor=000000)
-
 ### My Favorite Projects :>
 
 [![HuntCat](https://img.shields.io/badge/HuntCat-7f1aa1?style=for-the-badge&logo=github)](https://github.com/tc4dy/HuntCat) [![ironshell-x86](https://img.shields.io/badge/ironshell--x86-42214d?style=for-the-badge&logo=github)](https://github.com/tc4dy/ironshell-x86) [![SimplePot](https://img.shields.io/badge/GodasProject-9876a3?style=for-the-badge&logo=github)](https://github.com/tc4dy/godas) [![Catify](https://img.shields.io/badge/Catify-270333?style=for-the-badge&logo=github)](https://github.com/tc4dy/Catify) [![privmeta](https://img.shields.io/badge/privmeta-5c2d91?style=for-the-badge&logo=github)](https://github.com/tc4dy/privmeta)
+
 ---
 
 ### My PoC (Proof of Concept) Exploits :s
@@ -87,7 +86,7 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 ![GitHub Streak](https://streak-stats.demolab.com?user=tc4dy&theme=dark&background=1a0033&border=8A2BE2&stroke=8A2BE2&ring=8A2BE2&fire=BF40BF&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=9B59B6&currStreakNum=FFFFFF&sideNums=FFFFFF)
 
 ---
-![Visitors](https://komarev.com/ghpvc/?username=tc4dy&color=800080&style=for-the-badge&label=VISITORS&labelColor=000000)
+![Visitors](https://komarev.com/ghpvc/?username=tc4dy&color=800080&style=for-the-badge&label=VISITORS&labelColor=4B0082) ![Total Stars](https://img.shields.io/badge/Total%20Stars-270-C71585?style=for-the-badge&labelColor=4B0082)
 
 <h2>Project's </h2>
 
