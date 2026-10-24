@@ -87,6 +87,7 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 ![GitHub Streak](https://streak-stats.demolab.com?user=tc4dy&theme=dark&background=1a0033&border=8A2BE2&stroke=8A2BE2&ring=8A2BE2&fire=BF40BF&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=9B59B6&currStreakNum=FFFFFF&sideNums=FFFFFF)
 
 ---
+![Visitors](https://komarev.com/ghpvc/?username=tc4dy&color=800080&style=for-the-badge&label=VISITORS&labelColor=000000)
 
 <h2>Project's </h2>
 
