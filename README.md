@@ -1,7 +1,8 @@
 # Hi there! I'm Tc4dy! 👾 ࿐🪻✮⋆˙
 
 <img src="https://raw.githubusercontent.com/tc4dy/tc4dy/main/tc4dy_purple2.gif" width="800">
-![Profile Views](https://komarev.com/ghpvc/?username=tc4dy)
+<img src="https://komarev.com/ghpvc/?username=tc4dy" alt="Profile Views" />
+
 ---
 
 ### Who am I ? (bash-5.3$ uname -a) :V
