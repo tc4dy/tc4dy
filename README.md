@@ -1,7 +1,6 @@
 # Hi there! I'm Tc4dy! 👾 ࿐🪻✮⋆˙
 
 <img src="https://raw.githubusercontent.com/tc4dy/tc4dy/main/tc4dy_purple2.gif" width="800">
-![Visitors](https://komarev.com/ghpvc/?username=tc4dy&color=FF0000&style=for-the-badge&label=VISITORS&labelColor=000000)
 
 ---
 
@@ -106,3 +105,5 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 ```bash
 0578d8873eeb67a0f504752e65f0efabf23debf44d8842077997fadb8700207273
 ```
+
+![Visitors](https://komarev.com/ghpvc/?username=tc4dy&color=FF0000&style=for-the-badge&label=VISITORS&labelColor=000000)
