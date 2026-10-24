@@ -105,5 +105,5 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 ```bash
 0578d8873eeb67a0f504752e65f0efabf23debf44d8842077997fadb8700207273
 ```
-
-![Visitors](https://komarev.com/ghpvc/?username=tc4dy&color=FF0000&style=for-the-badge&label=VISITORS&labelColor=000000)
+![Visitors](https://komarev.com/ghpvc/?username=tc4dy&color=800080&style=for-the-badge&label=VISITORS&labelColor=000000)
+![Total Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/tc4dy&query=$.stars&label=Total%20Stars&style=for-the-badge&color=800080&labelColor=000000)
