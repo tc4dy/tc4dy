@@ -88,7 +88,6 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
 ### Other Statics
 ![Visitors](https://komarev.com/ghpvc/?username=tc4dy&color=270333&style=for-the-badge&label=VISITORS&labelColor=270333) ![Total Stars](https://img.shields.io/badge/Total%20Stars-250+-270333?style=for-the-badge&labelColor=55555) ![Total Forks](https://img.shields.io/badge/Total%20Forks-50+-270333?style=for-the-badge&labelColor=55555)
 
----
 
 <h2>Project's </h2>
 
