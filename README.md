@@ -50,35 +50,43 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
   <img src="https://img.shields.io/badge/Fedora-42214d?style=flat&logo=fedora&logoColor=white" alt="Fedora" />
   <img src="https://img.shields.io/badge/Ubuntu-9876a3?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/FreeBSD-270333?style=flat&logo=freebsd&logoColor=white" alt="FreeBSD" />
+  <img src="https://img.shields.io/badge/SELinux-7f1aa1?style=flat&logo=selinux&logoColor=white" alt="SELinux" />
+  <img src="https://img.shields.io/badge/runit-42214d?style=flat&logo=runit&logoColor=white" alt="runit" />
   <br /><br />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-7f1aa1?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Arduino-42214d?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/ESP32-9876a3?style=flat&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/UEFI-270333?style=flat&logo=uefi&logoColor=white" alt="UEFI" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-9876a3?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Arduino-270333?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ESP32-7f1aa1?style=flat&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/UEFI-42214d?style=flat&logo=uefi&logoColor=white" alt="UEFI" />
+  <img src="https://img.shields.io/badge/GRUB-9876a3?style=flat&logo=gnu&logoColor=white" alt="GRUB" />
+  <img src="https://img.shields.io/badge/rEFInd-270333?style=flat&logo=refind&logoColor=white" alt="rEFInd" />
   <br /><br />
   <img src="https://img.shields.io/badge/Ghidra-7f1aa1?style=flat&logo=ghidra&logoColor=white" alt="Ghidra" />
   <img src="https://img.shields.io/badge/IDA%20Pro-42214d?style=flat&logo=idasoftware&logoColor=white" alt="IDA Pro" />
   <img src="https://img.shields.io/badge/x64dbg-9876a3?style=flat&logo=x64dbg&logoColor=white" alt="x64dbg" />
   <br /><br />
-  <img src="https://img.shields.io/badge/Metasploit-7f1aa1?style=flat&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-42214d?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Nmap-9876a3?style=flat&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Wireshark-270333?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Aircrack--ng-7f1aa1?style=flat&logo=aircrackng&logoColor=white" alt="Aircrack-ng" />
+  <img src="https://img.shields.io/badge/Metasploit-270333?style=flat&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-7f1aa1?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-42214d?style=flat&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-9876a3?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-270333?style=flat&logo=aircrackng&logoColor=white" alt="Aircrack-ng" />
   <br /><br />
-  <img src="https://img.shields.io/badge/Tor-42214d?style=flat&logo=torproject&logoColor=white" alt="Tor" />
-  <img src="https://img.shields.io/badge/I2P-9876a3?style=flat&logo=i2p&logoColor=white" alt="I2P" />
-  <img src="https://img.shields.io/badge/Tails-270333?style=flat&logo=tails&logoColor=white" alt="Tails" />
+  <img src="https://img.shields.io/badge/Tor-7f1aa1?style=flat&logo=torproject&logoColor=white" alt="Tor" />
+  <img src="https://img.shields.io/badge/I2P-42214d?style=flat&logo=i2p&logoColor=white" alt="I2P" />
+  <img src="https://img.shields.io/badge/Tails-9876a3?style=flat&logo=tails&logoColor=white" alt="Tails" />
+  <img src="https://img.shields.io/badge/DNSCrypt-270333?style=flat&logo=dnscrypt&logoColor=white" alt="DNSCrypt" />
+  <img src="https://img.shields.io/badge/Pi--hole-7f1aa1?style=flat&logo=pihole&logoColor=white" alt="Pi-hole" />
   <br /><br />
-  <img src="https://img.shields.io/badge/VS%20Code-7f1aa1?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Vim-42214d?style=flat&logo=vim&logoColor=white" alt="Vim" />
-  <img src="https://img.shields.io/badge/Git-9876a3?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-270333?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-7f1aa1?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/VS%20Code-42214d?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Vim-9876a3?style=flat&logo=vim&logoColor=white" alt="Vim" />
+  <img src="https://img.shields.io/badge/Git-270333?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-7f1aa1?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-42214d?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <br /><br />
-  <img src="https://img.shields.io/badge/MySQL-42214d?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-9876a3?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-270333?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-9876a3?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-270333?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-7f1aa1?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/VMware-42214d?style=flat&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/Windows%20LTSC-9876a3?style=flat&logo=windows&logoColor=white" alt="Windows LTSC" />
 </p>
 
 ---
