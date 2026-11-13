@@ -63,24 +63,28 @@ I’m a 16-year-old cybersecurity tester and software developer; I’m also half
   <img src="https://img.shields.io/badge/Ghidra-7f1aa1?style=flat&logo=ghidra&logoColor=white" alt="Ghidra" />
   <img src="https://img.shields.io/badge/IDA%20Pro-42214d?style=flat&logo=idasoftware&logoColor=white" alt="IDA Pro" />
   <img src="https://img.shields.io/badge/x64dbg-9876a3?style=flat&logo=x64dbg&logoColor=white" alt="x64dbg" />
+  <img src="https://img.shields.io/badge/Binary%20Ninja-270333?style=flat&logo=binaryninja&logoColor=white" alt="Binary Ninja" />
+  <img src="https://img.shields.io/badge/radare2-7f1aa1?style=flat&logo=radare2&logoColor=white" alt="radare2" />
   <br /><br />
-  <img src="https://img.shields.io/badge/Metasploit-270333?style=flat&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-7f1aa1?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Nmap-42214d?style=flat&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Wireshark-9876a3?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Aircrack--ng-270333?style=flat&logo=aircrackng&logoColor=white" alt="Aircrack-ng" />
+  <img src="https://img.shields.io/badge/Metasploit-42214d?style=flat&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-9876a3?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-270333?style=flat&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-7f1aa1?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-42214d?style=flat&logo=aircrackng&logoColor=white" alt="Aircrack-ng" />
   <br /><br />
-  <img src="https://img.shields.io/badge/Tor-7f1aa1?style=flat&logo=torproject&logoColor=white" alt="Tor" />
-  <img src="https://img.shields.io/badge/I2P-42214d?style=flat&logo=i2p&logoColor=white" alt="I2P" />
-  <img src="https://img.shields.io/badge/Tails-9876a3?style=flat&logo=tails&logoColor=white" alt="Tails" />
-  <img src="https://img.shields.io/badge/DNSCrypt-270333?style=flat&logo=dnscrypt&logoColor=white" alt="DNSCrypt" />
-  <img src="https://img.shields.io/badge/Pi--hole-7f1aa1?style=flat&logo=pihole&logoColor=white" alt="Pi-hole" />
+  <img src="https://img.shields.io/badge/Tor-9876a3?style=flat&logo=torproject&logoColor=white" alt="Tor" />
+  <img src="https://img.shields.io/badge/I2P-270333?style=flat&logo=i2p&logoColor=white" alt="I2P" />
+  <img src="https://img.shields.io/badge/Tails-7f1aa1?style=flat&logo=tails&logoColor=white" alt="Tails" />
+  <img src="https://img.shields.io/badge/DNSCrypt-42214d?style=flat&logo=dnscrypt&logoColor=white" alt="DNSCrypt" />
+  <img src="https://img.shields.io/badge/Pi--hole-9876a3?style=flat&logo=pihole&logoColor=white" alt="Pi-hole" />
+  <img src="https://img.shields.io/badge/Whonix-270333?style=flat&logo=whonix&logoColor=white" alt="Whonix" />
   <br /><br />
-  <img src="https://img.shields.io/badge/VS%20Code-42214d?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Vim-9876a3?style=flat&logo=vim&logoColor=white" alt="Vim" />
-  <img src="https://img.shields.io/badge/Git-270333?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-7f1aa1?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-42214d?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/VS%20Code-7f1aa1?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Vim-42214d?style=flat&logo=vim&logoColor=white" alt="Vim" />
+  <img src="https://img.shields.io/badge/Git-9876a3?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-270333?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-7f1aa1?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitLens-42214d?style=flat&logo=gitlens&logoColor=white" alt="GitLens" />
   <br /><br />
   <img src="https://img.shields.io/badge/MySQL-9876a3?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-270333?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
